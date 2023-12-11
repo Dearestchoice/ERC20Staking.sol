@@ -1,2 +1,4 @@
 # ERC20Staking.sol
 staking smart contract
+Etherscan transaction; https://sepolia.etherscan.io/tx/0xbbe6ced8be4b221911042bc51c7ffa576615637020734d09cc9ace6acf058996
+Contract adrress; 0x0a5a9687209789c26AF1820373050d2fC09C6171
